@@ -1,0 +1,29 @@
+[
+  {
+    "offer": [
+      {
+        "name": "CARNE DUPLO",
+        "price": 35,
+        "image": "@/assets/carne_duplo.svg"
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "name": "CARNE SIMPLES",
+        "price": 30,
+        "image": "/assets/carne_simples.svg"
+      }
+    ]
+  },
+  {
+    "offer": [
+      {
+        "name": "SUPER QUEIJO",
+        "price": 35,
+        "image": "/assets/super_queijo.png"
+      }
+    ]
+  }
+]
